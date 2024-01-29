@@ -1,4 +1,4 @@
-## Jogo da Memória - README
+## Jogo da Memória
 
 #### Este é um jogo da memória simples desenvolvido com HTML, CSS e JavaScript, onde o objetivo é encontrar pares de emojis correspondentes. Abaixo estão as informações sobre os principais componentes do projeto.
 
